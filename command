@@ -1,0 +1,1 @@
+./ShinyMoon-win.exe -s "./input.lua" -o "./output.lua" -C -c "// Protected by Infraction7 in 2023." -vc "stop trying you skid" -vn " "
