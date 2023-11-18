@@ -1,3 +1,9 @@
 std="roblox"
 [lints]
 if_same_then_else="allow"
+multiple_statements="allow"
+undefined_variable="allow"
+empty_if="allow"
+shadowing="allow"
+mismatched_arg_count="allow"
+unused_variable="allow"
